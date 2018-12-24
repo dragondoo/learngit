@@ -6,3 +6,5 @@ source tree still has some problem
 
 «–ªªdoo’Àªß
 ddd -- command line
+
+open new terminal
